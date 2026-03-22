@@ -1,0 +1,24 @@
+# Data (cannot be redistributed)
+data/*.csv
+data/*.xlsx
+
+# Model weights
+results/*.keras
+results/*.h5
+results/*.weights.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
