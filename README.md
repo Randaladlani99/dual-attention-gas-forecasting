@@ -60,7 +60,7 @@ at both local and global levels.
 ## Installation
 
 ```bash
-git clone https://github.com/[your-username]/dual-attention-gas-forecasting
+git clone https://github.com/Randaladlani99/dual-attention-gas-forecasting
 cd dual-attention-gas-forecasting
 pip install -r requirements.txt
 ```
